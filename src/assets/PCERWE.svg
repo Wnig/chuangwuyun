@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="225px" height="225px" viewBox="0 0 225 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>PCERWE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-19.6%" y="-16.9%" width="139.2%" height="139.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.298039216   0 0 0 0 0.749019608   0 0 0 0 0.980392157  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="传统呼叫" transform="translate(-1490.000000, -325.000000)">
+            <g id="Group-4" transform="translate(226.000000, 342.000000)">
+                <g id="Group-39-Copy" filter="url(#filter-1)" transform="translate(1286.000000, 0.000000)">
+                    <g id="统计">
+                        <circle id="Oval-Copy" fill="#FFFFFF" cx="90.5" cy="90.5" r="90.5"></circle>
+                        <path d="M131.3125,122.642857 L117.875,122.642857 L117.875,79.7857143 C117.875,76.832111 115.463449,74.4285714 112.5,74.4285714 L101.75,74.4285714 L101.75,63.7142857 C101.75,60.7606824 99.3384487,58.3571429 96.375,58.3571429 L85.625,58.3571429 C82.6615513,58.3571429 80.25,60.7606824 80.25,63.7142857 L80.25,95.8571429 L69.5,95.8571429 C66.5365513,95.8571429 64.125,98.2606824 64.125,101.214286 L64.125,122.642857 L53.375,122.642857 L53.375,55.6785714 C53.375,54.1957908 52.1752232,53 50.6875,53 C49.1997768,53 48,54.1957908 48,55.6785714 L48,122.642857 C48,125.59646 50.4115513,128 53.375,128 L131.3125,128 C132.800223,128 134,126.804209 134,125.321429 C134,123.838648 132.800223,122.642857 131.3125,122.642857 Z M70,122 L70,101 L81,101 L81,122 L70,122 Z M86,123 L86,64 L97,64 L97,123 L86,123 Z M102,123 L102,80 L113,80 L113,123 L102,123 Z" id="Shape" fill="#41A4DF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

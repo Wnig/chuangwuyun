@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="124px" viewBox="0 0 124 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>pctongji</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="创物云PC端" transform="translate(-1540.000000, -2559.000000)">
+            <g id="Group-39" transform="translate(1540.000000, 2559.000000)">
+                <g id="统计">
+                    <circle id="Oval-Copy-2" fill="#000000" cx="62" cy="62" r="62"></circle>
+                    <path d="M95,86 L85,86 L85,54 C85,51.7946429 83.2053571,50 81,50 L73,50 L73,42 C73,39.7946429 71.2053571,38 69,38 L61,38 C58.7946429,38 57,39.7946429 57,42 L57,66 L49,66 C46.7946429,66 45,67.7946429 45,70 L45,86 L37,86 L37,36 C37,34.8928571 36.1071429,34 35,34 C33.8928571,34 33,34.8928571 33,36 L33,86 C33,88.2053571 34.7946429,90 37,90 L95,90 C96.1071429,90 97,89.1071429 97,88 C97,86.8928571 96.1071429,86 95,86 Z M49,86 L49,70 L57,70 L57,86 L49,86 Z M61,86 L61,42 L69,42 L69,86 L61,86 Z M73,86 L73,54 L81,54 L81,86 L73,86 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
